@@ -9,11 +9,11 @@ const SlickCarousel = () => {
   const settings = {
     dots: true,
     infinite: true,
-    speed: 800,
+    speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 1000,
+    autoplaySpeed: 800,
     pauseOnHover: true,
   };
 
